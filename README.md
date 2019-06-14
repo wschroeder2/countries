@@ -1,5 +1,6 @@
 # countries
 France
+Hungary
 Malaysia
 Norway
 Poland
