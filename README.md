@@ -6,6 +6,7 @@ Germany
 Herzegovina
 Hungary
 Italy
+Japan
 Malaysia
 Norway
 People's Republic of China
