@@ -1,0 +1,2 @@
+capitol:moscov
+population: 1
