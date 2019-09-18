@@ -1,3 +1,0 @@
-Population: 128,800,000
-Capitol: Tokio
-Largest city: Tokio

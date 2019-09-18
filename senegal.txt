@@ -1,3 +1,0 @@
-Population: 15,500,000
-Capitol: Dakar
-Largest City: Dakar
