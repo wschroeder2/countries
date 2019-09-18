@@ -1,0 +1,3 @@
+Population: 9.995.000
+Capitol: Stockholm
+Largest city:Stockholm
