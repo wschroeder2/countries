@@ -1,3 +1,0 @@
-Population: 1
-Capitol: Walhalla
-Largest City: Walhalla
