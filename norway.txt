@@ -1,3 +1,0 @@
-Population: 5,258,000
-Capital: Oslo
-Largest City: Oslo

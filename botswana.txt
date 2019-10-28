@@ -1,3 +1,0 @@
-Population: 2,250,000
-Capitol: Gabarone
-Largest City: Gabarone

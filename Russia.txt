@@ -1,3 +1,0 @@
-capitol:moscov
-population: 1
-largestCity: Moscov
