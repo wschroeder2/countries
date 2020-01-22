@@ -1,0 +1,2 @@
+Population: 70,000,000
+Capital: Paris
