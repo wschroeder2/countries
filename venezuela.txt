@@ -1,4 +1,0 @@
-Population: 32 million
-Capital: Caracas
-Largest City: Caracas
-Second Largest City: Maracaibo
