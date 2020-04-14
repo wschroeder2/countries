@@ -1,3 +1,0 @@
-Population: 1386,000,000
-Capital: Beijing
-Largest city: Shanghai
